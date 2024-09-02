@@ -1,4 +1,4 @@
 {
-    "vue": "https://github.com:xingxiaowu/template-vue#master",
-    "electron-vue": "https://github.com:xingxiaowu/template-vue#electron"
+    "vue": "https://gitee.com/NativeBase/simple-admin-ts#master",
+    "electron-app": "https://gitee.com/NativeBase/electron-app#electron"
 }
